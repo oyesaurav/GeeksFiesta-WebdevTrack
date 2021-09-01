@@ -2,8 +2,8 @@
 ## WebDev Track: Day 1: Github Pages and Initial Setup
 
 ### Format:
-`* [Team Name](link_to_latest_commit_history)` <br>
-&nbsp;&nbsp;&nbsp;&nbsp; `  * [link_to_website](link_to_website)`
+`* [Team Name](link_to_latest_commit_history)`
+&nbsp;&nbsp;&nbsp;&nbsp; `  [link_to_website](link_to_website)`
 
 
 #### Example:
