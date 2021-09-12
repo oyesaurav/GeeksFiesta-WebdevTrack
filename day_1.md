@@ -14,3 +14,5 @@
 *Submit your latest commit history's link below:*
 * [Outliers](https://github.com/abhinav-exp/Outliers/commit/a0c87c0e94c5482726d722ef233bd55188910d22)
   * [ https://teamoutliers.herokuapp.com/](https://teamoutliers.herokuapp.com/)
+
+* [Plus Ultra](https://github.com/oyesaurav/Plus-Ultra/commits/main)
