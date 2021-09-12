@@ -1,2 +1,0 @@
-# Codiggers
-GeeksFiesta Webdev Hackathon 
